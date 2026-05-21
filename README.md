@@ -16,6 +16,17 @@ reliable mobile experiences at production scale.
 - REST APIs / GraphQL
 - Firebase (Auth, Firestore, Cloud Messaging)
 - Node.js (basics)
+- Socket.io (Real-time features)
+
+**Authentication**
+- Social Login — Google, Facebook, Apple Sign-In
+- Firebase Auth
+- JWT Authentication
+
+**Push Notifications**
+- Firebase Cloud Messaging (FCM)
+- Expo Notifications
+- OneSignal
 
 **UI & Styling**
 - Styled Components
@@ -28,11 +39,6 @@ reliable mobile experiences at production scale.
 - Android Studio / Xcode
 - Postman
 - App deployment — Play Store & App Store
-
-## 📌 What I'm working on
-- Building production-grade React Native apps
-- Exploring React Native New Architecture (Fabric + JSI)
-- Improving DSA skills daily on LeetCode
 
 ## 🌍 Languages
 - English — Professional proficiency  
