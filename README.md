@@ -45,7 +45,7 @@ reliable mobile experiences at production scale.
 - German — Beginner (currently learning)
 
 ## 📫 Connect with me
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/shubhi-srivastava-980523257
 - Email: srivastavashubhi559@gmail.com
 
 ## 📊 GitHub Stats
