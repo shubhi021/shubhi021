@@ -1,6 +1,6 @@
 # Hi, I'm Shubhi Srivastava 👋
 
-I'm a React Native Developer with 3 years of experience building
+I'm a React Native Developer with 3+ years of experience building
 cross-platform mobile apps for Android and iOS.
 I focus on writing maintainable, performant code and delivering
 reliable mobile experiences at production scale.
