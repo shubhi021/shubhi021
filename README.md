@@ -42,7 +42,7 @@ reliable mobile experiences at production scale.
 
 ## 🌍 Languages
 - English — Professional proficiency  
-- German — Beginner (currently learning)
+- Italian — Beginner (currently learning)
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/shubhi-srivastava-980523257
